@@ -1,0 +1,19 @@
+*{
+    margin: 5px;
+}
+#messages{
+    margin: auto;
+    display: flex;
+    justify-items: center;
+    align-content: center;
+    padding: 5px;
+    background-color: lightblue;
+    width: 500px;
+    height: 700px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
